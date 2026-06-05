@@ -1,184 +1,116 @@
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║  VOIDENMARK — GitHub Profile README                                  ║
+║  Dark void aesthetic · Snake · Live stats · Cinematic presence       ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
 <div align="center">
+<!-- ░░ HEADER BANNER ░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:111111&height=200&section=header&text=VOIDENMARK&fontColor=e8e8e8&fontSize=72&fontAlignY=55&desc=developer%20%7C%20creator%20%7C%20something%20from%20nothing&descAlignY=78&descSize=14&descColor=444444&animation=fadeIn&fontFamily=monospace" />
+</div>
 
-```
-██╗   ██╗ ██████╗ ██╗██████╗ ███████╗███╗   ██╗███╗   ███╗ █████╗ ██████╗ ██╗  ██╗
-██║   ██║██╔═══██╗██║██╔══██╗██╔════╝████╗  ██║████╗ ████║██╔══██╗██╔══██╗██║ ██╔╝
-██║   ██║██║   ██║██║██║  ██║█████╗  ██╔██╗ ██║██╔████╔██║███████║██████╔╝█████╔╝ 
-╚██╗ ██╔╝██║   ██║██║██║  ██║██╔══╝  ██║╚██╗██║██║╚██╔╝██║██╔══██║██╔══██╗██╔═██╗ 
- ╚████╔╝ ╚██████╔╝██║██████╔╝███████╗██║ ╚████║██║ ╚═╝ ██║██║  ██║██║  ██║██║  ██╗
-  ╚═══╝   ╚═════╝ ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═══╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
-
-<!-- SNAKE ANIMATION — add to your repo via GitHub Actions (see setup below) -->
+<!-- ░░ SNAKE ░░ -->
+<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voidenmark/voidenmark/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/voidenmark/voidenmark/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/voidenmark/voidenmark/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/voidenmark/voidenmark/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/voidenmark/voidenmark/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" width="100%"
+       src="https://raw.githubusercontent.com/voidenmark/voidenmark/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
----
-
-```bash
-$ whoami
-> voidenmark — building in the dark, shipping in the light.
-```
-
-<br/>
-
-[![X (Twitter)](https://img.shields.io/badge/@voidenmark-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/voidenmark)
-[![YouTube](https://img.shields.io/badge/@voidenmark-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@voidenmark)
-[![GitHub](https://img.shields.io/badge/voidenmark-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/voidenmark)
-
 </div>
 
----
-
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=voidenmark&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github" />
-
-### `> SYSTEM BOOT`
-
-```
-[■■■■■■■■■■] 100% — All systems operational.
-[LOADING PROFILE...]
-
-  Name     : Voidenmark
-  Role     : Developer / Creator
-  Status   : 🟢 Online — always building
-  Focus    : Crafting tools, content & chaos
-  Mantra   : "From the void, something."
-```
-
-<br clear="right"/>
-
----
-
-### `> TECH STACK`
-
+<!-- ░░ IDENTITY BLOCK ░░ -->
+                                ┌────────────────────────────────────┐
+                                │  $ cat /etc/voidenmark/identity    │
+                                ├────────────────────────────────────┤
+                                │                                    │
+                                │  handle   : voidenmark             │
+                                │  class    : developer / creator    │
+                                │  origin   : the void               │
+                                │  status   : always building        │
+                                │  signal   : X + YouTube            │
+                                │                                    │
+                                │  "from nothing — something."       │
+                                │                                    │
+                                └────────────────────────────────────┘
 <div align="center">
-
-![](https://img.shields.io/badge/OS-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/Shell-Bash-%234EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![](https://img.shields.io/badge/Code-Python-%233776AB?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Code-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Code-TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Runtime-Node.js-%23339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/DB-PostgreSQL-%234169E1?style=flat-square&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Cloud-Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Editor-Neovim-%2357A143?style=flat-square&logo=neovim&logoColor=white)
-![](https://img.shields.io/badge/VCS-Git-%23F05032?style=flat-square&logo=git&logoColor=white)
-
+Show Image
+ 
+Show Image
+ 
+Show Image
 </div>
 
----
-
-### `> CURRENT ACTIVITY`
-
-```python
-class Voidenmark:
-
-    def __init__(self):
-        self.location    = "Somewhere in the dark"
-        self.languages   = ["Python", "TypeScript", "Bash", "whatever gets the job done"]
-        self.tools       = ["Neovim", "Docker", "Git", "Terminal (always)"]
-        self.content     = ["@voidenmark on X", "@voidenmark on YouTube"]
-        self.philosophy  = "Write code that speaks. Build things that last."
-
-    def current_focus(self):
-        return [
-            "🔨  Shipping projects that matter",
-            "🎥  Creating dev content for the next generation",
-            "🌑  Exploring the void between what exists and what could",
-        ]
-
-    def availability(self):
-        return "Open to: collab · ideas · chaos"
-
-me = Voidenmark()
-```
-
----
-
-### `> GITHUB METRICS`
-
+<!-- ░░ DIVIDER ░░ -->
+▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓▓▓
+                         [ SYSTEM OPERATIONAL ]
+▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓▓▓
+<!-- ░░ STATS GRID ░░ -->
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidenmark&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
-
-<img height="160" src="https://streak-stats.demolab.com?user=voidenmark&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
-
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=voidenmark&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=cccccc&icon_color=666666&text_color=888888&ring_color=333333&count_private=true" />
+&nbsp;&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidenmark&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=cccccc&text_color=888888&langs_count=6" />
 </div>
-
----
-
-### `> FIND ME IN THE WILD`
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   𝕏 / Twitter  →  @voidenmark                          │
-│   YouTube       →  @voidenmark                          │
-│   GitHub        →  github.com/voidenmark                │
-│                                                         │
-│   "The void isn't empty — it's full of unbuilt things." │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
----
-
 <div align="center">
-
-<!-- VISITOR COUNTER -->
-![Visitor Count](https://komarev.com/ghpvc/?username=voidenmark&color=58a6ff&style=flat-square&label=VISITORS)
-
-*Profile README crafted from the void.*
-
+<img width="60%" src="https://streak-stats.demolab.com/?user=voidenmark&theme=dark&hide_border=true&background=00000000&stroke=222222&ring=555555&fire=888888&currStreakLabel=cccccc&sideLabels=666666&dates=444444&currStreakNum=ffffff&sideNums=aaaaaa" />
 </div>
 
----
+<!-- ░░ ABOUT ░░ -->
+ // who
+typescriptconst voidenmark = {
 
-<!-- ═══════════════════════════════════════════════════════════
-     🐍  SNAKE ANIMATION SETUP — GitHub Actions
-     
-     1. Create a file at:
-        .github/workflows/snake.yml
-        
-     2. Paste this content:
+  craft   : ["systems", "tools", "content", "whatever solves the problem"],
+  stack   : ["TypeScript", "Python", "Node.js", "shell scripting", "SQL"],
+  env     : ["Linux", "Neovim", "tmux", "Docker", "Git"],
 
-name: Generate Snake
+  building: "projects that are worth building",
+  sharing : "the process on X + YouTube",
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+  belief  : `
+    code should be intentional.
+    shipped beats perfect.
+    the void is where ideas live before they exist.
+  `,
 
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+} satisfies Developer;
 
-     3. Go to Settings → Actions → General
-        Set "Workflow permissions" to "Read and write permissions"
-        
-     4. Run the action once manually under Actions → Generate Snake
-     ═══════════════════════════════════════════════════════════ -->
+<!-- ░░ STACK ░░ -->
+ // stack
+<div align="center">
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+</div>
+
+<!-- ░░ ACTIVITY GRAPH ░░ -->
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=voidenmark&bg_color=000000&color=444444&line=333333&point=888888&area=true&area_color=1a1a1a&hide_border=true&custom_title=contribution+activity" />
+</div>
+
+<!-- ░░ FOOTER ░░ -->
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   𝕏  @voidenmark        — thoughts, drops, signal                   ║
+║   ▶  @voidenmark        — dev content, builds, process              ║
+║   ◈  github/voidenmark  — the work itself                           ║
+║                                                                      ║
+║   the void isn't empty.  it's full of things not yet built.         ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=80&section=footer&reversal=false" width="100%" />
+</div>
+<div align="center">
+<sub>
+<img src="https://komarev.com/ghpvc/?username=voidenmark&style=flat-square&color=333333&label=visitors" />
+</sub>
+</div
