@@ -1,232 +1,184 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111111,100:1a1a2e&height=200&section=header&text=VOIDENMARK&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=building%20tools%20%E2%80%A2%20sharing%20knowledge%20%E2%80%A2%20staying%20free&descSize=16&descAlignY=60&descColor=888888&animation=fadeIn" />
+```
+██╗   ██╗ ██████╗ ██╗██████╗ ███████╗███╗   ██╗███╗   ███╗ █████╗ ██████╗ ██╗  ██╗
+██║   ██║██╔═══██╗██║██╔══██╗██╔════╝████╗  ██║████╗ ████║██╔══██╗██╔══██╗██║ ██╔╝
+██║   ██║██║   ██║██║██║  ██║█████╗  ██╔██╗ ██║██╔████╔██║███████║██████╔╝█████╔╝ 
+╚██╗ ██╔╝██║   ██║██║██║  ██║██╔══╝  ██║╚██╗██║██║╚██╔╝██║██╔══██║██╔══██╗██╔═██╗ 
+ ╚████╔╝ ╚██████╔╝██║██████╔╝███████╗██║ ╚████║██║ ╚═╝ ██║██║  ██║██║  ██║██║  ██╗
+  ╚═══╝   ╚═════╝ ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═══╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-<!-- LIVE VISITOR COUNTER -->
-<a href="https://github.com/VOIDENMARK">
-  <img src="https://komarev.com/ghpvc/?username=VOIDENMARK&style=for-the-badge&color=111111&label=PROFILE+VIEWS&labelColor=000000" />
-</a>
-&nbsp;
-<a href="https://voidenmark.github.io">
-  <img src="https://img.shields.io/badge/SITE-LIVE-00ff88?style=for-the-badge&labelColor=000000" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-BUILDING-ff6b35?style=for-the-badge&labelColor=000000" />
-
-<br/><br/>
-
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Free+tools+over+paid+bloat.;Open+source+over+closed+walls.;Knowledge+shared+is+power+multiplied.;If+it+ain%27t+free%2C+we+find+an+alternative." />
-
-</div>
+<!-- SNAKE ANIMATION — add to your repo via GitHub Actions (see setup below) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voidenmark/voidenmark/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/voidenmark/voidenmark/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/voidenmark/voidenmark/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 ---
-
-## 👁️ Live Stats
-
-<div align="center">
-
-| Metric | Live Badge |
-|--------|-----------|
-| 🏆 GitHub Stars | ![Stars](https://img.shields.io/github/stars/VOIDENMARK?style=flat-square&color=ffd700&labelColor=111) |
-| 🍴 Total Forks | ![Forks](https://img.shields.io/github/forks/VOIDENMARK?style=flat-square&color=00bfff&labelColor=111) |
-| 👥 Followers | ![Followers](https://img.shields.io/github/followers/VOIDENMARK?style=flat-square&color=00ff88&labelColor=111) |
-| 📦 Public Repos | ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/VOIDENMARK&query=$.public_repos&label=REPOS&style=flat-square&color=ff6b35&labelColor=111) |
-
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=VOIDENMARK&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=00ff88&text_color=888888&ring_color=00ff88&count_private=true" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOIDENMARK&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&langs_count=8" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=VOIDENMARK&theme=github-dark-blue&hide_border=true&background=0D0D0D&ring=00ff88&fire=ff6b35&currStreakLabel=ffffff&sideLabels=888888" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VOIDENMARK&theme=github-dark&hide_border=true&bg_color=0d0d0d&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff8820" />
-
-</div>
-
----
-
-## 🚀 Featured Repos
-
-> Auto-updates via GitHub API pins — star what matters, it surfaces here.
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VOIDENMARK&repo=voidenmark.github.io&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=00ff88)](https://github.com/VOIDENMARK/voidenmark.github.io)
-
-</div>
-
----
-
-## 🛠️ Free Tools Arsenal
-
-> Why pay? Every tool below is free, open-source, or has a killer free tier.
-
-### 🎨 Design & UI
-| Tool | What it beats | Link |
-|------|--------------|-------|
-| **Figma** (free tier) | Adobe XD, Sketch | [figma.com](https://figma.com) |
-| **Penpot** | Figma (fully open source) | [penpot.app](https://penpot.app) |
-| **Spline** | Cinema 4D for web 3D | [spline.design](https://spline.design) |
-| **Coolors** | Adobe Color | [coolors.co](https://coolors.co) |
-| **Google Fonts** | Typekit/Adobe Fonts | [fonts.google.com](https://fonts.google.com) |
-
-### 💻 Dev & Code
-| Tool | What it beats | Link |
-|------|--------------|-------|
-| **VS Code** | JetBrains IDEs (for most tasks) | [code.visualstudio.com](https://code.visualstudio.com) |
-| **Gitpod** | Local dev environment | [gitpod.io](https://gitpod.io) |
-| **Railway** (free tier) | Heroku | [railway.app](https://railway.app) |
-| **Vercel** | Netlify Pro | [vercel.com](https://vercel.com) |
-| **Supabase** | Firebase | [supabase.com](https://supabase.com) |
-| **PlanetScale** | AWS RDS | [planetscale.com](https://planetscale.com) |
-| **Cloudflare Workers** | AWS Lambda | [workers.cloudflare.com](https://workers.cloudflare.com) |
-
-### 📝 Productivity & Writing  
-| Tool | What it beats | Link |
-|------|--------------|-------|
-| **Notion** (personal free) | Confluence | [notion.so](https://notion.so) |
-| **Obsidian** | Roam Research, Notion | [obsidian.md](https://obsidian.md) |
-| **LibreOffice** | Microsoft Office | [libreoffice.org](https://libreoffice.org) |
-| **Joplin** | Evernote | [joplinapp.org](https://joplinapp.org) |
-
-### 🎥 Media & Creative
-| Tool | What it beats | Link |
-|------|--------------|-------|
-| **DaVinci Resolve** | Premiere Pro, Final Cut | [blackmagicdesign.com](https://www.blackmagicdesign.com/products/davinciresolve) |
-| **GIMP** | Photoshop | [gimp.org](https://gimp.org) |
-| **Inkscape** | Illustrator | [inkscape.org](https://inkscape.org) |
-| **Kdenlive** | iMovie, Premiere | [kdenlive.org](https://kdenlive.org) |
-| **Audacity** | Adobe Audition | [audacityteam.org](https://audacityteam.org) |
-| **OBS Studio** | Camtasia | [obsproject.com](https://obsproject.com) |
-
-### 🔒 Privacy & Security
-| Tool | What it beats | Link |
-|------|--------------|-------|
-| **Bitwarden** | LastPass, 1Password | [bitwarden.com](https://bitwarden.com) |
-| **ProtonMail** | Gmail (privacy) | [proton.me](https://proton.me) |
-| **Signal** | WhatsApp, Telegram | [signal.org](https://signal.org) |
-| **uBlock Origin** | Paid ad blockers | [ublockorigin.com](https://ublockorigin.com) |
-
-### 🤖 AI Tools (Free Tiers Worth Using)
-| Tool | What it beats | Link |
-|------|--------------|-------|
-| **Claude.ai** (free) | ChatGPT Plus | [claude.ai](https://claude.ai) |
-| **Perplexity** (free) | Copilot, Gemini | [perplexity.ai](https://perplexity.ai) |
-| **Mistral** (free API) | OpenAI API | [mistral.ai](https://mistral.ai) |
-| **Hugging Face** | AWS AI services | [huggingface.co](https://huggingface.co) |
-| **Stable Diffusion** | Midjourney, DALL·E | [stability.ai](https://stability.ai) |
-
----
-
-## 📚 Quick Guides
-
-<details>
-<summary><b>🌐 Deploy a Free Website (5 min)</b></summary>
 
 ```bash
-# 1. Create repo named: yourusername.github.io
-# 2. Clone it
-git clone https://github.com/yourusername/yourusername.github.io
-
-# 3. Drop your index.html in
-# 4. Push
-git add . && git commit -m "launch" && git push
-
-# Done. Live at https://yourusername.github.io
+$ whoami
+> voidenmark — building in the dark, shipping in the light.
 ```
-</details>
 
-<details>
-<summary><b>🗃️ Free Database Setup (Supabase)</b></summary>
+<br/>
 
-```javascript
-// Install: npm install @supabase/supabase-js
-import { createClient } from '@supabase/supabase-js'
-
-const supabase = createClient('YOUR_URL', 'YOUR_ANON_KEY')
-
-// Query
-const { data } = await supabase.from('table').select('*')
-```
-</details>
-
-<details>
-<summary><b>⚡ Cloudflare Worker (Free Serverless)</b></summary>
-
-```javascript
-// Free: 100k requests/day — no credit card needed
-export default {
-  async fetch(request) {
-    return new Response(JSON.stringify({ status: 'alive' }), {
-      headers: { 'Content-Type': 'application/json' }
-    })
-  }
-}
-```
-</details>
-
-<details>
-<summary><b>🔧 VS Code Must-Have Extensions</b></summary>
-
-```
-- Prettier (formatting)
-- ESLint (linting)  
-- GitLens (git superpowers)
-- Thunder Client (free Postman replacement)
-- Path Intellisense (autocomplete paths)
-- GitHub Copilot (free for students)
-- Live Server (instant local server)
-```
-</details>
-
----
-
-## 🧰 Tech Stack I Use
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+[![X (Twitter)](https://img.shields.io/badge/@voidenmark-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/voidenmark)
+[![YouTube](https://img.shields.io/badge/@voidenmark-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@voidenmark)
+[![GitHub](https://img.shields.io/badge/voidenmark-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/voidenmark)
 
 </div>
 
 ---
 
-## 📈 Contribution Heatmap
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=voidenmark&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github" />
+
+### `> SYSTEM BOOT`
+
+```
+[■■■■■■■■■■] 100% — All systems operational.
+[LOADING PROFILE...]
+
+  Name     : Voidenmark
+  Role     : Developer / Creator
+  Status   : 🟢 Online — always building
+  Focus    : Crafting tools, content & chaos
+  Mantra   : "From the void, something."
+```
+
+<br clear="right"/>
+
+---
+
+### `> TECH STACK`
 
 <div align="center">
 
-[![VOIDENMARK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VOIDENMARK&bg_color=0d0d0d&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true)](https://github.com/VOIDENMARK)
+![](https://img.shields.io/badge/OS-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Shell-Bash-%234EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![](https://img.shields.io/badge/Code-Python-%233776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Code-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Code-TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Runtime-Node.js-%23339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/DB-PostgreSQL-%234169E1?style=flat-square&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Cloud-Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Editor-Neovim-%2357A143?style=flat-square&logo=neovim&logoColor=white)
+![](https://img.shields.io/badge/VCS-Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
+### `> CURRENT ACTIVITY`
+
+```python
+class Voidenmark:
+
+    def __init__(self):
+        self.location    = "Somewhere in the dark"
+        self.languages   = ["Python", "TypeScript", "Bash", "whatever gets the job done"]
+        self.tools       = ["Neovim", "Docker", "Git", "Terminal (always)"]
+        self.content     = ["@voidenmark on X", "@voidenmark on YouTube"]
+        self.philosophy  = "Write code that speaks. Build things that last."
+
+    def current_focus(self):
+        return [
+            "🔨  Shipping projects that matter",
+            "🎥  Creating dev content for the next generation",
+            "🌑  Exploring the void between what exists and what could",
+        ]
+
+    def availability(self):
+        return "Open to: collab · ideas · chaos"
+
+me = Voidenmark()
+```
+
+---
+
+### `> GITHUB METRICS`
+
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20tool%20is%20the%20one%20that%20doesn%27t%20cost%20you%20your%20freedom.&author=VOIDENMARK" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidenmark&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
 
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:111111,100:0a0a0a&height=120&section=footer&animation=fadeIn" />
+<img height="160" src="https://streak-stats.demolab.com?user=voidenmark&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
 
 </div>
+
+---
+
+### `> FIND ME IN THE WILD`
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   𝕏 / Twitter  →  @voidenmark                          │
+│   YouTube       →  @voidenmark                          │
+│   GitHub        →  github.com/voidenmark                │
+│                                                         │
+│   "The void isn't empty — it's full of unbuilt things." │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+<!-- VISITOR COUNTER -->
+![Visitor Count](https://komarev.com/ghpvc/?username=voidenmark&color=58a6ff&style=flat-square&label=VISITORS)
+
+*Profile README crafted from the void.*
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════
+     🐍  SNAKE ANIMATION SETUP — GitHub Actions
+     
+     1. Create a file at:
+        .github/workflows/snake.yml
+        
+     2. Paste this content:
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+     3. Go to Settings → Actions → General
+        Set "Workflow permissions" to "Read and write permissions"
+        
+     4. Run the action once manually under Actions → Generate Snake
+     ═══════════════════════════════════════════════════════════ -->
