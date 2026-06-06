@@ -110,7 +110,7 @@ const voidenmark = {
   `,
 } satisfies Developer;
 
-
+```
 
 
 <!-- STACK -->
