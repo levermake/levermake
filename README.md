@@ -45,9 +45,8 @@ Independent software and product development.
 
 ## Links
 
-Website
-X
-GitHub
+Space([voidenmak.github.io])
+X([x.com/voidenmark])
 
 ---
 
