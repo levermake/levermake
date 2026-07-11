@@ -1,44 +1,150 @@
+<div align="center">
 
-# ─── ⋆ V𝖔𝖎𝖉𝖊𝖓𝖒𝖆𝖗𝖐 ⋆ ───
+<img src="https://voidenmark.is-a.dev/art_hero_void.png" width="100%" alt="Voidenmark" />
 
-> *Madness meets method.* 😬 *I'm just doin my ting.*
+<br />
 
----
+# ⋆ VOIDENMARK ⋆
+### madness meets method.
 
-### ⚡ Short Circuit
-* 🌍 **Location:** Earth
-* 🛠️ **Affiliation:** Member of [@Hjulmund](https://github.com/Hjulmund)
-* 🌐 **Web:** [voidenmark.is-a.dev](https://voidenmark.is-a.dev)
-* 🐦 **X:** [@voidenmark](https://x.com/@voidenmark)
+*Software engineer, designer, and founder building intelligent systems that outlast trends.*
 
----
+<br />
 
-### 🎛️ The Setup & The Sound
-When I'm not pushing code, I'm usually found at the intersection of logic and abstraction—deconstructing systems or building heavy, experimental, underground rhythms. 
+[![Website](https://img.shields.io/badge/voidenmark.is--a.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://voidenmark.is-a.dev)
+[![X](https://img.shields.io/badge/@voidenmark-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/voidenmark)
+[![Hugging Face](https://img.shields.io/badge/voidenmark-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000)](https://huggingface.co/voidenmark)
 
-* 💻 **Development:** Exploring logic, app architecture, and API integration.
-* 🎧 **Acoustics:** Abstract hip-hop, heavy sample chopping, and gritty beat-making. 
-* 🎮 **Tactics:** Analyzing patterns, mechanics, and managing high-performance squads.
+<br />
 
----
+</div>
 
-### 🏆 Platform Milestones
-| Achievement | Breakdown |
-| :--- | :--- |
-| **Pull Shark (x2)** | Caught a couple of merged PRs in the wild. |
-| **YOLO** | Merged straight to production because code review is a luxury. |
-| **Pair Extraordinaire** | Solid collaborative execution on joint commits. |
+## ⚡ Short Circuit
 
----
+```
+Location     Earth
+Affiliation  Member @ Hjulmund
+Practice     Voidenmark — independent software & product development
+Focus        Simplicity · Longevity · Craftsmanship
+```
 
-### 📊 Tech Stack & Toolkit
-⚙️ Languages & Logic  |  [ JS, Python, C++, etc. ]
-🎹 Audio Production   |  [ Mobile DAWs, Track Trackers, Distro tools ]
-🛠️ Ecosystem          |  GitHub Developer Program, Mobile Modding, Optimization
+<br />
 
+## 🗂 Projects — Shipped & In Progress
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <sub>Generated with a touch of method to the madness. 🦅</sub>
-</p>
+### 📋 [Dossier](https://github.com/voidenmark/Dossier)
+**Live** · MIT
+
+One app that auto-organizes every warranty, receipt, manual, subscription, and important document in your life. Smart notifications before things expire or renew.
+
+`Python`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚚 [Rundour](https://github.com/voidenmark/Rundour)
+**Live**
+
+Like carpooling, but for errands. If your neighbor is headed to the hardware store and you need one thing from there, it connects you. Hyper-local, saves time and fuel.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⏳ [Lapse](https://github.com/voidenmark/Lapse)
+**Live**
+
+Social media where every post has a 24-hour delay before it publishes. Forces you to actually mean what you say — cancel anytime before it goes live.
+
+</td>
+<td width="50%" valign="top">
+
+### 👋 [Walkup](https://github.com/voidenmark/Walkup)
+**Live**
+
+Before any meeting, call, or social event on your calendar, it auto-assembles a 30-second brief — your past conversations with that person, their recent context, anything relevant. Never walk in cold.
+
+</td>
+</tr>
+</table>
+
+<br />
+
+## 🧭 Currently Building
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Synctom**
+`In Dev · Hjulmund`
+
+Intelligent synchronization systems — core infrastructure for Hjulmund, engineered to outlast trends.
+
+`Systems` `AI`
+
+</td>
+<td width="33%" valign="top">
+
+**Hjulmund Platform**
+`Building · Full Stack`
+
+The main software platform. Under active construction.
+
+`Full Stack`
+
+</td>
+<td width="33%" valign="top">
+
+**AI Tooling Suite**
+`Active · AI/ML`
+
+Ongoing experiments in coding agents, image/video generation. Pushing boundaries in public on Hugging Face and GitHub.
+
+`AI` `ML`
+
+</td>
+</tr>
+</table>
+
+<br />
+
+## 🏢 Ventures
+
+| | |
+|---|---|
+| **[Hjulmund](https://x.com/hjulmund)** | Software technology company. Intelligent systems built for longevity and performance over trends. CEO-led from the ground up. |
+| **[Hjulmund Studios](https://x.com/hjulmundstudios)** | Creative studio for software, brands, and digital experiences — minimalism and performance at the core. |
+
+<br />
+
+## 🛠 Toolkit
+
+`JavaScript` `Python` `C++` `Electron` `AI/ML Tooling` `System Design`
+
+<br />
+
+<div align="center">
+
+> *"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."*
+> — Antoine de Saint-Exupéry
+
+<br />
+
+### Let's build something that lasts.
+
+Open to collaborations, consulting, and conversations about software, AI, and systems design.
+
+[![Website](https://img.shields.io/badge/Website-voidenmark.is--a.dev-black?style=flat-square)](https://voidenmark.is-a.dev)
+[![X](https://img.shields.io/badge/X-@voidenmark-black?style=flat-square&logo=x)](https://x.com/voidenmark)
+[![GitHub](https://img.shields.io/badge/GitHub-@voidenmark-black?style=flat-square&logo=github)](https://github.com/voidenmark)
+[![Hugging Face](https://img.shields.io/badge/🤗-@voidenmark-black?style=flat-square)](https://huggingface.co/voidenmark)
+
+<sub>© 2026 Rendani Manugeni · Built with minimalism and performance.</sub>
+
+</div>
