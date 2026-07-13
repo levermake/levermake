@@ -67,7 +67,7 @@ Social media where every post has a 24-hour delay before it publishes. Forces yo
 ### 👋 [Walkup](https://github.com/voidenmark/Walkup)
 **Live**
 
-Before any meeting, call, or social event on your calendar, it auto-assembles a 30-second brief — your past conversations with that person, their recent context, anything relevant. Never walk in cold.
+Before any meeting, call, or social event on your calendar, it auto-assembles a 30-second brief — your past conversations with that person, their recent context, anything relevant. Never walk in blind.
 
 </td>
 </tr>
