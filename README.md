@@ -1,150 +1,153 @@
 <div align="center">
 
-<img src="/art.png" width="70%" alt="Voidenmark" />
+<img src="/art.png" width="70%" alt="levermake" />
 
 <br />
 
-# ⋆ VOIDENMARK ⋆
-### madness meets method.
+# 🚀 @levermake
 
-*Software engineer, designer, and founder building intelligent systems that outlast trends.*
+> Crafting robust systems. Passion for clean code, elegant design, and lasting software.
 
-<br />
-
-[![Website](https://img.shields.io/badge/voidenmark.is--a.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://voidenmark.is-a.dev)
-[![X](https://img.shields.io/badge/@voidenmark-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/voidenmark)
-[![Hugging Face](https://img.shields.io/badge/voidenmark-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000)](https://huggingface.co/voidenmark)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-@levermake-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/levermake)
+[![Email](https://img.shields.io/badge/Get%20in%20Touch-000000?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 <br />
 
 </div>
 
-## ⚡ Short Circuit
+---
 
-```
-Location     Earth
-Affiliation  Member @ Hjulmund
-Practice     Voidenmark — independent software & product development
-Focus        Simplicity · Longevity · Craftsmanship
-```
-
-<br />
-
-## 🗂 Projects — Shipped & In Progress
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📋 [Dossier](https://github.com/voidenmark/Dossier)
-**Live** · MIT
-
-One app that auto-organizes every warranty, receipt, manual, subscription, and important document in your life. Smart notifications before things expire or renew.
-
-`Python`
-
-</td>
-<td width="50%" valign="top">
-
-### 🚚 [Rundour](https://github.com/voidenmark/Rundour)
-**Live**
-
-Like carpooling, but for errands. If your neighbor is headed to the hardware store and you need one thing from there, it connects you. Hyper-local, saves time and fuel.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⏳ [Lapse](https://github.com/voidenmark/Lapse)
-**Live**
-
-Social media where every post has a 24-hour delay before it publishes. Forces you to actually mean what you say — cancel anytime before it goes live.
-
-</td>
-<td width="50%" valign="top">
-
-### 👋 [Walkup](https://github.com/voidenmark/Walkup)
-**Live**
-
-Before any meeting, call, or social event on your calendar, it auto-assembles a 30-second brief — your past conversations with that person, their recent context, anything relevant. Never walk in blind.
-
-</td>
-</tr>
-</table>
-
-<br />
-
-## 🧭 Currently Building
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**Synctom**
-`In Dev · Hjulmund`
-
-Intelligent synchronization systems — core infrastructure for Hjulmund, engineered to outlast trends.
-
-`Systems` `AI`
-
-</td>
-<td width="33%" valign="top">
-
-**Hjulmund Platform**
-`Building · Full Stack`
-
-The main software platform. Under active construction.
-
-`Full Stack`
-
-</td>
-<td width="33%" valign="top">
-
-**AI Tooling Suite**
-`Active · AI/ML`
-
-Ongoing experiments in coding agents, image/video generation. Pushing boundaries in public on Hugging Face and GitHub.
-
-`AI` `ML`
-
-</td>
-</tr>
-</table>
-
-<br />
-
-## 🏢 Ventures
-
-| | |
-|---|---|
-| **[Hjulmund](https://x.com/hjulmund)** | Software technology company. Intelligent systems built for longevity and performance over trends. CEO-led from the ground up. |
-| **[Hjulmund Studios](https://x.com/hjulmundstudios)** | Creative studio for software, brands, and digital experiences — minimalism and performance at the core. |
-
-<br />
-
-## 🛠 Toolkit
-
-`JavaScript` `Python` `C++` `Electron` `AI/ML Tooling` `System Design`
-
-<br />
+## 🎖️ Developer Achievements & Trophies
 
 <div align="center">
 
-> *"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."*
-> — Antoine de Saint-Exupéry
+| Trophy | Status | Unlocked |
+|--------|--------|----------|
+| 🏆 **Open Source Contributor** | ![Active](https://img.shields.io/badge/ACTIVE-28a745?style=flat) | Multiple repos shipped |
+| 💎 **Clean Code Advocate** | ![Active](https://img.shields.io/badge/ACTIVE-28a745?style=flat) | Consistent best practices |
+| 🤖 **Systems Architect** | ![Active](https://img.shields.io/badge/ACTIVE-28a745?style=flat) | Complex system design |
+| 📚 **Knowledge Sharer** | ![Active](https://img.shields.io/badge/ACTIVE-28a745?style=flat) | Documentation enthusiast |
+| ⚡ **Performance Optimizer** | ![In Progress](https://img.shields.io/badge/IN%20PROGRESS-0366d6?style=flat) | Obsessed with efficiency |
+| 🔐 **Security Focused** | ![In Progress](https://img.shields.io/badge/IN%20PROGRESS-0366d6?style=flat) | Building secure systems |
 
-<br />
+</div>
 
-### Let's build something that lasts.
+---
 
-Open to collaborations, consulting, and conversations about software, AI, and systems design.
+## 📋 Quick Profile
 
-[![Website](https://img.shields.io/badge/Website-voidenmark.is--a.dev-black?style=flat-square)](https://voidenmark.is-a.dev)
-[![X](https://img.shields.io/badge/X-@voidenmark-black?style=flat-square&logo=x)](https://x.com/voidenmark)
-[![GitHub](https://img.shields.io/badge/GitHub-@voidenmark-black?style=flat-square&logo=github)](https://github.com/voidenmark)
-[![Hugging Face](https://img.shields.io/badge/🤗-@voidenmark-black?style=flat-square)](https://huggingface.co/voidenmark)
+```yaml
+Name:           levermake
+Role:           Software Developer & Systems Designer
+Focus:          • Clean, maintainable code
+                • Scalable architectures
+                • Developer experience
+                • Open source collaboration
+                
+Specialization: Full-stack development, Systems design, Performance optimization
+```
 
-<sub>© 2026 Rendani Manugeni · Built with minimalism and performance.</sub>
+---
+
+## 💼 Current Projects
+
+| Project | Status | Tech Stack | Description |
+|---------|--------|-----------|-------------|
+| **Personal Portfolio** | 🔨 In Development | TypeScript, React, Next.js | Showcasing work and ideas |
+| **Open Source Tools** | 🎯 Active | JavaScript, Python | Community-driven utilities |
+| **System Experiments** | 🧪 Exploring | Various | Learning & innovation hub |
+
+---
+
+## 🛠️ Technical Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+### Backend & DevOps
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+### Tools & Platforms
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+> Contributions tracked on [GitHub Profile](https://github.com/levermake)
+
+</div>
+
+---
+
+## 🎯 Core Values
+
+- **Quality over Quantity** — Write code that speaks for itself
+- **Developer Experience** — Tools should be intuitive and well-documented
+- **Continuous Learning** — Stay curious, embrace new challenges
+- **Open Collaboration** — Better together than alone
+- **Performance & Efficiency** — Every line counts
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in:
+- 💡 Discussing architecture & system design
+- 🔓 Contributing to open source
+- 🚀 Building cool projects together
+- 📖 Sharing knowledge & best practices
+
+**Get in touch:** [Email](#) | [GitHub](https://github.com/levermake) | [Portfolio](#)
+
+---
+
+## 🚀 How to Contribute
+
+Found something interesting in my repos? Here's how to get started:
+
+1. **Fork** the repository
+2. **Create** a feature branch (`git checkout -b feature/amazing-thing`)
+3. **Commit** your changes with clear messages
+4. **Push** to the branch (`git push origin feature/amazing-thing`)
+5. **Open** a Pull Request with description
+
+### Contribution Guidelines
+- Follow existing code style and patterns
+- Add tests for new features
+- Update documentation as needed
+- Keep commits atomic and meaningful
+- Reference any related issues
+
+---
+
+## 📝 Code of Conduct
+
+Be respectful, inclusive, and professional. We're here to build great software together.
+
+---
+
+<div align="center">
+
+### ✨ Thanks for stopping by!
+
+**Let's build something remarkable.**
+
+<sub>© 2026 · Built with passion and clean code</sub>
 
 </div>
