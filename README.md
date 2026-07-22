@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/art_hero_void.png" width="100%" alt="Voidenmark" />
+<img src="/art.png" width="70%" alt="Voidenmark" />
 
 <br />
 
